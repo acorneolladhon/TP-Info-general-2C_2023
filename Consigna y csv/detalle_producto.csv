@@ -1,0 +1,40 @@
+NOMBRE_PRODUCTO;FARMACO;PROVEEDOR;BAJO_RECETA;PRECIO
+Tafirol;Paracetamol;PharmaCorp;;15.99
+Ibupirac;Ibuprofeno;MediCare;NO;12.50
+Bayaspirina;Ácido Acetilsalicílico;FarmaNet;NO;9.75
+Paracetamol;Paracetamol;PharmaCorp;NO;14.25
+Aspirina;Ácido Acetilsalicílico;MediCare;;8.99
+Vicks VapoRub;Mentol y Eucalipto;FarmaNet;NO;22.99
+Halls;Mentol y Miel;PharmaCorp;;3.75
+Benadryl;Difenhidramina;MediCare;SI;18.50
+Nasonex;Mometasona;FarmaNet;SI;35.75
+Flanax;Naproxeno;PharmaCorp;SI;28.99
+Advil;Ibuprofeno;MediCare;NO;17.25
+Sudafed;Pseudoefedrina;FarmaNet;;23.50
+Robitussin;Dextrometorfano;PharmaCorp;SI;19.99
+Nyquil;Doxilamina y Dextrometorfano;MediCare;SI;26.75
+Vicodin;Hidrocodona y Paracetamol;FarmaNet;SI;45.99
+DayQuil;Fenilefrina y Paracetamol;PharmaCorp;SI;24.75
+Zyrtec;Cetirizina;MediCare;NO;12.99
+VapoInhaler;Mentol;FarmaNet;;8.25
+Calpol Infant;Paracetamol;PharmaCorp;;10.50
+Panadol Extra;Paracetamol y Cafeína;MediCare;;9.99
+Tylenol;Paracetamol;FarmaNet;NO;11.75
+Motrin;Ibuprofeno;PharmaCorp;NO;14.25
+Claritin;Loratadina;MediCare;NO;18.99
+SoreThroat Spray;Lidocaína;FarmaNet;SI;16.75
+EyeDrops;Nafazolina;PharmaCorp;;7.99
+EarWax Drops;Ácido Salicílico;MediCare;;6.50
+VitaminC;Ácido Ascórbico;FarmaNet;NO;8.75
+CoughEx;Dextrometorfano y Guaifenesina;PharmaCorp;SI;23.99
+MultiVitamins;Vitaminas y Minerales;MediCare;NO;19.50
+Zantac;Ranitidina;FarmaNet;SI;17.75
+Mouthwash;Clorhexidina y Fluoruro de Sodio;PharmaCorp;;12.99
+Sleep Aid;Doxilamina;FarmaNet;SI;15.75
+Anti-Itch Cream;Hidrocortisona;MediCare;NO;9.50
+Hydrocortisone;Hidrocortisona;PharmaCorp;NO;7.75
+First Aid Kit;Varios artículos de primeros auxilios;FarmaNet;;32.99
+Thermometer;Termómetro digital;PharmaCorp;;12.25
+Aspirin Regimen;Ácido Acetilsalicílico;MediCare;NO;8.25
+Vitamin D;Vitamina D3;FarmaNet;;9.99
+Antacid Tablets;Hidróxido de Aluminio y Magnesio;PharmaCorp;NO;7.50
